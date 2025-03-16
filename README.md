@@ -24,7 +24,7 @@ After adding the repository, locate **OpenWebUI Add-on** in the add-on store and
 
 Alternatively, click the button below to open the repository page and follow the installation instructions:
 
-[![Install OpenWebUI Add-on(https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/cutik/openwebui)]
+[![Install OpenWebUI Add-on](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/cutik/openwebui)
 
 ## Configuration
 
