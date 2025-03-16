@@ -24,7 +24,7 @@ After adding the repository, locate **OpenWebUI Add-on** in the add-on store and
 
 Alternatively, click the button below to open the repository page and follow the installation instructions:
 
-[![Install OpenWebUI Add-on](https://img.shields.io/badge/Install%20OpenWebUI-blue)](https://github.com/cutik/addon-openwebui)
+[![Install OpenWebUI Add-on](https://img.shields.io/badge/Install%20OpenWebUI-blue)](https://github.com/cutik/openwebui)
 
 ## Configuration
 
