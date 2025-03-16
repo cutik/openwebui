@@ -1,0 +1,36 @@
+{
+  "name": "OpenWebUI Addon",
+  "version": "1.0.0",
+  "slug": "openwebui",
+  "description": "Home Assistant add-on to run OpenWebUI and serve tools (e.g., Llama) with parameterized configuration.",
+  "startup": "services",
+  "boot": "auto",
+  "ingress": true,
+  "ingress_entry": "/",
+  "ingress_panel": true,
+  "panel_icon": "mdi:web",
+  "panel_title": "OpenWebUI",
+  "arch": [
+    "armv7",
+    "armhf",
+    "aarch64",
+    "amd64",
+    "i386"
+  ],
+  "ports": {
+    "80/tcp": 8080
+  },
+  "options": {
+    "llama_url": "https://www.llama.com",
+    "custom_args": ""
+  },
+  "schema": {
+    "llama_url": "str",
+    "custom_args": "str"
+  },
+  "build": {
+    "args": {
+      "BUILD_FROM": "openwebui/openwebui:latest"
+    }
+  }
+}
