@@ -15,7 +15,7 @@ A Home Assistant add-on to run [OpenWebUI](https://openwebui.com/) with paramete
 1. In Home Assistant, navigate to **Supervisor > Add-on Store**.
 2. Click the three-dot menu (⋮) in the upper-right corner and select **Repositories**.
 3. Add the following repository URL:  
-   `https://github.com/yourusername/addon-openwebui`  
+   `https://github.com/cutik/addon-openwebui`  
    *(Replace with your repository URL.)*
 
 ### Installing the Add-on
@@ -24,7 +24,7 @@ After adding the repository, locate **OpenWebUI Add-on** in the add-on store and
 
 Alternatively, click the button below to open the repository page and follow the installation instructions:
 
-[![Install OpenWebUI Add-on](https://img.shields.io/badge/Install%20OpenWebUI-blue)](https://github.com/yourusername/addon-openwebui)
+[![Install OpenWebUI Add-on](https://img.shields.io/badge/Install%20OpenWebUI-blue)](https://github.com/cutik/addon-openwebui)
 
 ## Configuration
 
