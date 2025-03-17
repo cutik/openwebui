@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Test repo for openwebui
+url: 'https://github.com/cutik/openwebui'
+maintainer: Vitalii Boldin <vitaliy.boldin@gmail.com>
